@@ -59,10 +59,10 @@ The weighted ANN was evaluated on a test set of 750 employee records.
 
 | Metric | Result |
 |---|---:|
-| Accuracy | 70.67% |
-| Leave Precision | 33.96% |
-| Leave Recall | 67.91% |
-| Leave F1-Score | 45.27% |
+| Accuracy | 67.87% |
+| Leave Precision | 33.12% |
+| Leave Recall | 78.36% |
+| Leave F1-Score | 46.56% |
 
 **Why recall matters:** The project prioritizes Leave-class recall because identifying employees who may leave is the primary objective of an early-warning system.
 
